@@ -1,10 +1,10 @@
 <?php 
-$host='Localhost';
+$host='localhost';
 $username='root';
 $dbname='turmas';
 $password='';
 
-$conexao = new mysqli($host,$username,$dbname,$password);
+$conexao = new mysqli($host,$username,$password,$dbname);
 
 
 if ($conexao->connect_errno){
