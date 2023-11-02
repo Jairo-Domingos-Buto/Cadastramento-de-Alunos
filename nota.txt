@@ -1,0 +1,4 @@
+Hoje é dia 2 de Novembro e eu me desafiei a criar 
+um banco de dados que vai receber alunos de uma turma
+uma tela de cadastro que vai registrar esses alunos 
+conseguir ligar essa tela com o BD com php e depois validar a mesma com javascript
